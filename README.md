@@ -2,8 +2,7 @@
 - 👀 I’m interested in Programming C++, C#, Python
 - 🌱 I’m currently learning new things every day!
 - 💞️ I’m looking to collaborate on any interesting project!
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me christianreher@rocketmail.com
 - ⚡ Fun fact: I'm a Dj to ;D
 
 <!---
