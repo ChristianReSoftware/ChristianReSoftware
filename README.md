@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianReSoftware
-- 👀 I’m interested in Programming C, C++, C#, Python
+- 👀 I’m interested in Programming C, C++, C#, Python, Jave, JavaScript
 - 🌱 I’m currently learning new things every day!
 - 💞️ I’m looking to collaborate on any interesting project!
 - 📫 How to reach me christianreher@rocketmail.com
